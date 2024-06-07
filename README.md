@@ -1,4 +1,4 @@
-Made with Next.js tailwind
+Made with Next.js tailwind polygon and openai
 
 ### local env
 
